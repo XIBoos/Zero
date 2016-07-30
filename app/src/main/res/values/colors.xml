@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="gray_stroke">#b4b4b4</color>
+    <color name="wihte_content">#e1e1e1</color>
+    <color name="wihte_content_press">#818181</color>
+    <color name="font_color">#313131</color>
 </resources>

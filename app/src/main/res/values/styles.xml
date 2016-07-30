@@ -7,5 +7,10 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    
+    <style name="font_style">
+        <item name="android:textSize">@dimen/widget_font_size</item>
+        <item name="android:textColor">@color/font_color</item>
+    </style>
 
 </resources>
